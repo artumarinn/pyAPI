@@ -130,6 +130,9 @@ fig.show()
 - Sets the bar color to SteelBlue with 60% opacity
 - Displays the interactive visualization in the default web browser
 
+![chart](image/chart.png)
+
+
 ## 6. Features of the Visualization
 
 The resulting visualization offers several interactive features:
